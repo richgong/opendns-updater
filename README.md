@@ -1,6 +1,6 @@
 # OpenDNS-Updater
 
-OpenDNS's updater is a little opaque. Try using this python script instead, which you can customize for your own needs.
+OpenDNS's "Dynamic IP" updater is a little opaque. Try using this python script instead, which you can customize for your own needs.
 
 ## Install
 
@@ -19,7 +19,7 @@ Create a config file called `config.ini` in the same directory:
 
 ## Run
 
-Run this:
+Run this to update your IP address:
 
 `python update.py`
 
