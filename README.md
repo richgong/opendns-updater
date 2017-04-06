@@ -10,7 +10,7 @@ Install required python modules:
 
 ## Configuration
 
-Create a config file called `config.in` in the same directory
+Create a config file called `config.ini` in the same directory:
 
 	[Main]
 	label: YourNetworkLabel
